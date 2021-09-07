@@ -1,1 +1,1 @@
-# pruebagrupo51
+# ProyectoSistemaInformacionEquipo4Grupo51
